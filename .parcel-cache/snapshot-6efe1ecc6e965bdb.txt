@@ -1,4 +1,4 @@
-4530
+4536
 99C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\@swc\helpers\scripts\errors.js133669340385992320 0
 99C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\@parcel\profiler\src\Tracer.js133669340380873782 0
 97C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\css-tree\lib\walker\index.js133669340383662208 0
@@ -117,7 +117,7 @@
 86C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\@msgpackr-extract133669341694073563 1
 98C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\entities\lib\maps\legacy.json133669340381083236 0
 83C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\is-binary-path133669341693120877 1
-60C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\dist133669353550247338 1
+60C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\dist133669358111632344 1
 100C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\caniuse-lite\data\regions\MD.js133669340390235431 0
 92C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\csso\lib\replace\atrule133669340382652100 1
 86C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\binary-extensions133669341693155167 1
@@ -193,7 +193,7 @@
 120C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_stat.1133669340382304778 0
 122C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\@swc\helpers\_\_class_private_method_get\package.json133669340386769768 0
 94C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\is-binary-path\index.d.ts133669341693033894 0
-76C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\dist\styles\main.css133669341702949782 0
+76C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\dist\styles\main.css133669358111303824 0
 121C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\caniuse-lite\data\features\keyboardevent-charcode.js133669340389796537 0
 83C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\immutable\dist133669341693244853 1
 86C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\anymatch\index.js133669341693033894 0
@@ -292,7 +292,7 @@
 89C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\timsort\package.json133669340377511588 0
 93C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\glob-parent\CHANGELOG.md133669341693110891 0
 92C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\semver\functions\neq.js133669340382294804 0
-68C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\dist\scripts133669341703052296 1
+68C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\dist\scripts133669358111363659 1
 100C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\caniuse-lite\data\regions\GB.js133669340388703672 0
 93C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\tslib\modules\index.d.ts133669340381013417 0
 85C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\tslib\tslib.d.ts133669340381133101 0
@@ -386,7 +386,7 @@
 112C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\lmdb\dependencies\lz4\lib\lz4frame_static.h133669340384574627 0
 86C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\sass\sass.node.js133669341693324634 0
 86C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\msgpackr\index.js133669340381272049 0
-76C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\src\styles\main.scss133669340859037176 0
+76C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\src\styles\main.scss133669358110766028 0
 114C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\caniuse-lite\data\features\payment-request.js133669340391051988 0
 105C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\cosmiconfig\dist\cacheWrapper.js.map133669340381531299 0
 85C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\mdn-data\LICENSE133669340377461740 0
@@ -442,7 +442,7 @@
 114C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\caniuse-lite\data\features\promise-finally.js133669340391238789 0
 75C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\@babel133669340365846903 1
 95C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\@parcel\graph\src\Graph.js133669340381401649 0
-80C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\dist\styles\main.css.map133669341702994408 0
+80C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\dist\styles\main.css.map133669358111343719 0
 97C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\@parcel\utils\src\urlJoin.js133669340383741957 0
 100C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\caniuse-lite\data\regions\LY.js133669340390148755 0
 119C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\caniuse-lite\data\features\css-media-resolution.js133669340386141435 0
@@ -511,18 +511,16 @@
 129C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\@parcel\core\test\fixtures\local-plugin-config-pkg\.parcelrc133669340381252772 0
 94C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\msgpackr\dist\test.js.map133669340383154800 0
 78C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\.bin\sass133669341694031104 0
-67C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\dist\styles133669341703004395 1
+67C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\dist\styles133669358111363659 1
+81C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\dist\birthday.59712999.js133669358111313806 0
 100C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\caniuse-lite\data\regions\PF.js133669340391091879 0
-81C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\dist\birthday.59712999.js133669341702929841 0
 91C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\@parcel\diagnostic\lib133669340380442110 1
 103C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\msgpackr-extract\node_modules\.bin133669340393578427 1
 100C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\caniuse-lite\data\regions\HR.js133669340389136163 0
 94C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\csso\lib\replace\Value.js133669340383144831 0
 77C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\csso\lib133669340383019842 1
-85C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\dist\birthday.59712999.js.map133669341702994408 0
 83C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\semver\classes133669340382751837 1
 82C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\utility-types133669340381351771 1
-76C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\dist\scripts\main.js133669341703014365 0
 90C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\@parcel\cache\LICENSE133669340377551487 0
 87C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\timsort\LICENSE.md133669340379635574 0
 97C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\css-select\lib\sort.d.ts.map133669340382022108 0
@@ -532,8 +530,8 @@
 116C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\@parcel\transformer-html\lib\HTMLTransformer.js133669340379595668 0
 105C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\@parcel\profiler\test\Tracer.test.js133669340381003442 0
 92C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\color-convert\README.md133669340380047611 0
+80C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\dist\scripts\main.js.map133669358111353715 0
 116C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\@parcel\core\test\fixtures\config-node-pipeline133669340380007722 1
-80C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\dist\scripts\main.js.map133669341703044277 0
 124C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\lmdb.h133669340384388268 0
 120C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\@parcel\rust\parcel-node-bindings.darwin-arm64.node133669340386012264 0
 104C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\css-tree\lib\syntax\node\AnPlusB.js133669340379481978 0
@@ -570,7 +568,7 @@
 103C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\type-fest\ts41\delimiter-case.d.ts133669340381093219 0
 130C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib133669340379481978 1
 116C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\@parcel\transformer-posthtml\lib\loadPlugins.js133669340377971854 0
-66C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\src\styles133669340859037176 1
+66C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\src\styles133669356653814455 1
 100C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\caniuse-lite\data\regions\CR.js133669340384704279 0
 102C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\svgo\plugins\removeUselessDefs.js133669340383404139 0
 93C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\css-tree\dist\csstree.js133669340382612206 0
@@ -3834,6 +3832,7 @@
 119C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\@swc\helpers\esm\_iterable_to_array_limit_loose.js133669340385325356 0
 105C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\@swc\helpers\esm\_new_arrow_check.js133669340385373993 0
 109C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\@swc\helpers\esm\_non_iterable_spread.js133669340385393901 0
+82C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\src\styles\_variables.scss133669357912657950 0
 91C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\@swc\core\package.json133669340380621607 0
 116C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\@swc\helpers\esm\_object_destructuring_empty.js133669340385413853 0
 131C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\node_modules\@parcel\core\test\fixtures\custom-targets-distdir\package.json133669340386196827 0
@@ -4526,6 +4525,13 @@
 66C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\.gitignore133669341959995631 0
 66C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\src\images133669353425163916 1
 77C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\src\images\murata.png133669346259153690 0
-80C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\dist\murata.bae602ac.png133669346991135151 0
-79C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\dist\festa.a0521366.jpg133669353550235790 0
-71C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\dist\index.html133669353550241719 0
+77C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\src\styles\components133669356406993999 1
+91C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\src\styles\components\_buttons.scss133669356322094902 0
+93C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\src\styles\components\_infos_bar.scss133669356406993999 0
+78C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\src\styles\_event.scss133669356513506110 0
+77C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\src\styles\_hero.scss133669356580995038 0
+76C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\dist\scripts\main.js133669358111313806 0
+79C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\dist\festa.a0521366.jpg133669358111323773 0
+85C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\dist\birthday.59712999.js.map133669358111353715 0
+80C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\dist\murata.bae602ac.png133669358111423511 0
+71C:\Users\Muratinha\Desktop\CursoEBAC\front-end\birthday\dist\index.html133669358111622661 0
